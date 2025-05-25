@@ -24,5 +24,8 @@ Kullanılan Varlıkların Kaynakları
 - Aksiyon sesi : https://mixkit.co/free-sound-effects/game/
 <br><br>
 
+Proje boyunca yapay zeka ile yapılan etkileşimler [AI.md](./AI.md)<br><br>
+
+
 Oynanış Videosu
 YouTube'da İzle : https://youtu.be/lpqCXSgEv98
