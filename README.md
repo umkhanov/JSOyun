@@ -1,7 +1,7 @@
 # JavaScript Oyun Pojesi
 ## **Keep It Up!**
 
-Projeye GitHub Pages Üzerinden Erişim
+Projeye erişim :
 https://umkhanov.github.io/JSoyun/
 <br><br>
 
