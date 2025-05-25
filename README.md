@@ -1,5 +1,5 @@
-# JSoyun
-# Keep It Up!
+# JavaScript Oyun Pojesi
+## **Keep It Up!**
 
 Projeye GitHub Pages Üzerinden Erişim
 https://umkhanov.github.io/JSoyun/
